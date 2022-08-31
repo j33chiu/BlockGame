@@ -1,0 +1,11 @@
+﻿  Player.cpp
+  World.cpp
+C:\Users\Jonathan\Desktop\C-C++\BlockGame\World.cpp(18,14): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Jonathan\Desktop\C-C++\BlockGame\World.cpp(18,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jonathan\Desktop\C-C++\BlockGame\World.cpp(19,14): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Jonathan\Desktop\C-C++\BlockGame\World.cpp(19,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\Jonathan\Desktop\C-C++\BlockGame\main.cpp(160,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jonathan\Desktop\C-C++\BlockGame\main.cpp(161,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  BlockGame.vcxproj -> C:\Users\Jonathan\Desktop\C-C++\BlockGame\x64\Debug\BlockGame.exe

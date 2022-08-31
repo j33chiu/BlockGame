@@ -1,0 +1,21 @@
+#ifndef BLOCK_TYPE_ENUMS_H
+#define BLOCK_TYPE_ENUMS_H
+
+enum class BlockType {
+	ANDESITE,
+	STONE,
+	DIRT,
+	GRASS,
+	OAK_PLANK,
+	COBBLESTONE,
+	BEDROCK,
+	SAND,
+	GRAVEL,
+	OAK_LOG,
+	COAL_ORE,
+	GOLD_ORE,
+	IRON_ORE,
+	DIAMOND_ORE
+};
+
+#endif
